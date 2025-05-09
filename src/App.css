@@ -8,3 +8,11 @@
 #todo-item {
   font-size: 25px;
 }
+
+.form-check {
+  color: red
+}
+
+.form-check.done {
+  color: green
+}

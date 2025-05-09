@@ -1,5 +1,5 @@
 import data from "../data.js";
-import ToDo from "./ToDo.jsx";
+import ToDo from "./ToDoItem.jsx";
 
 function ToDoList() {
   return (
